@@ -1,6 +1,10 @@
 # nimeflix
 
-A new Flutter project.
+Just UI no logic
+![logo](https://github.com/Munawir712/nimeflix-flutterUI/blob/master/screenshot/Nimeflix-UI.jpg)
+
+# Reference UI Design: 
+https://dribbble.com/shots/14144323-Anime-Web-Streaming-Design-Nimeflix-2?fbclid=IwAR1-33tdEHdHoE87Qh62B-Xo-x7H8G0lhtySnaieSIhWmV2r8D-qIEvzw7U
 
 ## Getting Started
 
